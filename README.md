@@ -2,6 +2,8 @@
 
 # Sharaku
 
+I updated codes for Swift 4 forked from [https://github.com/makomori/Sharaku](https://github.com/makomori/Sharaku) 
+
 [![Version](https://img.shields.io/cocoapods/v/Sharaku.svg?style=flat)](http://cocoapods.org/pods/Sharaku)
 [![License](https://img.shields.io/cocoapods/l/Sharaku.svg?style=flat)](http://cocoapods.org/pods/Sharaku)
 [![Platform](https://img.shields.io/cocoapods/p/Sharaku.svg?style=flat)](http://cocoapods.org/pods/Sharaku)
@@ -45,7 +47,7 @@ Sharaku is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "Sharaku"
+pod "Sharaku", git: "https://github.com/9to6/Sharaku"
 ```
 ### Install manually
 It requires a few things. Please follow the [steps](https://github.com/makomori/Sharaku/wiki/manual_install).
